@@ -1,0 +1,5 @@
+== WORDY API v.2 WRAPPER
+
+Little wrapper for API v.2. Examples are in examples/ folder. Licensing information is in library/Wordy/Api.php file.
+
+This is a preview release. Tests will come a little bit later.
